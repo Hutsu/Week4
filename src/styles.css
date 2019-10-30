@@ -1,0 +1,64 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  border-collapse: collapse;
+  font: "Helvetica";
+  font-size: 30px;
+}
+td {
+  border: 2px solid black;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 70px;
+}
+td:hover {
+  background-color: azure;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 10px;
+  color: blue;
+}
+
+h3 {
+  color: red;
+  text-align: center;
+  font-size: 10px;
+}
+
+.w3-light-grey {
+  margin-left: auto;
+  margin-right: auto;
+  color: #000 !important;
+  background-color: #f1f1f1;
+  width: 306px;
+  padding: 3px;
+}
+
+.w3-container {
+  color: #000;
+  width: 306px;
+}
+
+.w3-center {
+  text-align: center !important;
+}
+
+.w3-green {
+  color: #fff !important;
+  background-color: blue !important;
+}
